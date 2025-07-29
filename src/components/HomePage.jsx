@@ -33,7 +33,7 @@ const HomePage = () => {
     <div className="container">
       {/* Header */}
       <div className="header">
-        <h1>klu</h1>
+        <h1>vihas</h1>
         <h1>E-Commerce</h1>
         <div className="header-right">
           {isAuthenticated ? (
